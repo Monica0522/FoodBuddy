@@ -19,5 +19,6 @@ public class MainTest {
         place = driver.getPlace("mexican");
         System.out.println("   Name is: " + place.getName());
         System.out.println("   city is: " + place.getCity());
+
     }
 }
